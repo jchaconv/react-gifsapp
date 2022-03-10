@@ -3,8 +3,9 @@
 }
 
 body {
-  padding: 60px
+  padding: 60px;
 }
+
 
 input {
   color: grey;
@@ -17,7 +18,6 @@ input {
   flex-direction: row;
   flex-wrap: wrap;
 }
-
 
 .card {
   align-content: center;
@@ -36,3 +36,4 @@ input {
 .card img {
   max-height: 170px;
 }
+
